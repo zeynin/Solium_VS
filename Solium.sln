@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solium", "Solium\Solium.csproj", "{94D847FD-E48C-42FD-84C0-66D156B36131}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoliumUnitTest", "SoliumUnitTest\SoliumUnitTest.csproj", "{6BA9953C-5938-43C4-81EA-F2AB5FDD6E41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{94D847FD-E48C-42FD-84C0-66D156B36131}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94D847FD-E48C-42FD-84C0-66D156B36131}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94D847FD-E48C-42FD-84C0-66D156B36131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA9953C-5938-43C4-81EA-F2AB5FDD6E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA9953C-5938-43C4-81EA-F2AB5FDD6E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA9953C-5938-43C4-81EA-F2AB5FDD6E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA9953C-5938-43C4-81EA-F2AB5FDD6E41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
